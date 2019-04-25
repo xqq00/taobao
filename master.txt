@@ -1,5 +1,30 @@
 add a file input master 
 
 this is a modify in dev branch
+>>>>>>> dev
+>>>>>>> dev
 
-this is a modify in master branch
+master.txtthis is a modify in master branch
+>>>>>>> dev
+>>>>>> dev
+>>>>>>> dev
+>>>>>>> dev
+>>>>>>> dev
+>>>>>>> dev
+>>>>>>> dev
+>>>>>>> dev
+>>>>>>> dev
+master.txtthis is a modify in new dev bracnch
+>in>>>>>> 30b57423c3569ff18f6c698d6a3b9f76b8cb7d39
+ths is a modify in master branch
+
+class Person()
+{
+  se
+
+}
+
+
+
+=======
+
